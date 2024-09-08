@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e864f6c7-39d9-4b88-bc2b-dd2cd49f7480" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Insctyprion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_abovecurve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_adder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_automaton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_banshee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_batterybot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_bloodhound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_bluemage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_bluemage_fused.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_bolthound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_bombbot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_bombmaiden.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_bonehound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_bonelordhorn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_bonepile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_bullfrog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_burrowingtrap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_cat_undead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_coinleft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_coinright.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_conduitenergy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_conduitfactory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_conduithealer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_conduitpower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_coyote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_cuckoo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_deadhand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_deadpets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_direwolf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_direwolfcub.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_draugr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_drownedsoul.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_elk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_elkcub.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_energygunner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_energyroller.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_family.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_fieldmice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_fieldmice_fused.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_flyingant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_flyingmage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_forcemage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_franknstein.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_gemfiend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_gemmodule.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_ghostship.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_gravedigger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_gravedigger_fused.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_greenmage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_grizzly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_gunnerbot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_hawk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_headlesshorseman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_hrokkall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_insectobot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_inspector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_juniorsage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_kingfisher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_kraken.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_lammergeier.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_leapingbot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_lice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_mageknight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_magpie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_mantisgod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_marrowmage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_masterBG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_masterGO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_masterOB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_mealworm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_meatbot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_melter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_minecart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_mole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_moleman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_moxBG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_moxGO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_moxOB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_moxemerald.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_moxruby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_moxsapphire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_moxtriple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_mudturtle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_mummy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_musclemage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_necromancer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_nullconduit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_opossum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_orangemage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_ouroboros.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_practicemage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_pupil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_rabbit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_raven.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_redhart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_revenant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_robomice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_rubygolem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_salmon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_sarcophagus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_sentrybot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_sentrybot_fused.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_shutterbug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_skeleton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_skeletonmage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_sniper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_squidbell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_squidcards.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_squidmirror.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_squirrel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_squirrelball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_starvation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_steambot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_stimmage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_stoat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_tadpole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_thickbot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_tombrobber.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_urayuli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_warren.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_wolf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_wolfcub.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_wolverine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/avatars/portrait_zombie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/base/card_empty_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/base/card_empty_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/base/card_empty_deathcard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/base/card_empty_deathcard_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/base/card_empty_deathcard_overlay_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/base/card_empty_rare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/base/card_empty_rare_terrain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/base/card_empty_rare_zombie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/base/card_empty_terrain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/base/card_empty_zombie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/base/card_stitches.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/base/card_submerge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/base/cardback.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/base/cardbook_emptyspace.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/costs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/activated_dealdamage #288625.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/activated_dicerollbone #288286.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/activated_dicerollenergy #287979.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/activated_drawskeleton #287866.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/activated_energytobones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/activated_heal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/activated_sacrificedraw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/activated_statsup #288853.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/activated_statsupenergy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/bombspawner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/bonedigger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/brittle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/buffgems.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/card_conduitborder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/conduit_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/conduitbuffattack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/conduitenergy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/conduithealing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/conduitspawner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/deathtouch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/doubledeath #286909.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/drawcopy #288903.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/drawcopyondeath #288415.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/drawnewhand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/drawrabbits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/droprubyondeath.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/evolve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/explodeondeath.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/flying.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/gainbattery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/gaingem_all.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/gaingem_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/gaingem_green #287858.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/gaingem_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/gemdependant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/gemsdraw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/guarddog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/icecube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/loot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/preventattack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/quadruplebones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/reach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/sacrificial.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/sentry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/sharp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/skeletonstrafe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/splitstrike #288176.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/squirrelstrafe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/steeltrap #287733.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/strafe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/strafepush #287773.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/submerge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/submergesquid #287724.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/tripleblood.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/tristrike.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/tutor #288848.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/textures/cards/sigils/whackamole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/client/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/client/src/protocols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/server/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/server/src/protocols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tool.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2lkRMqaQQoBpE9ScXy9hyNEXjw3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Client.executor": "Run",
+    "Python.Server.executor": "Run",
+    "Python.client.executor": "Run",
+    "Python.game.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.tool.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Files/MyProjects/Programms/PyCharm/Insctyprion/assets/textures/cards/base"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Files\MyProjects\Programms\PyCharm\Insctyprion\assets\textures\cards\base" />
+      <recent name="C:\Files\MyProjects\Programms\PyCharm\Insctyprion\assets\textures\cards\sigils" />
+      <recent name="C:\Files\MyProjects\Programms\PyCharm\Insctyprion\assets\textures\cards\avatars" />
+      <recent name="C:\Files\MyProjects\Programms\PyCharm\Insctyprion\assets\textures\cards" />
+      <recent name="C:\Files\MyProjects\Programms\PyCharm\Insctyprion\network\client\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Files\MyProjects\Programms\PyCharm\Insctyprion" />
+      <recent name="C:\Files\MyProjects\Programms\PyCharm\Insctyprion\network" />
+      <recent name="C:\Files\MyProjects\Programms\PyCharm\Insctyprion\server" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="PythonConfigurationType" factoryName="Python">
+      <module name="Insctyprion" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (Insctyprion)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network/client/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Server" type="PythonConfigurationType" factoryName="Python">
+      <module name="Insctyprion" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (Insctyprion)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network/server/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Server" />
+      <item itemvalue="Python.Client" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e864f6c7-39d9-4b88-bc2b-dd2cd49f7480" name="Changes" comment="" />
+      <created>1725722043022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725722043022</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
